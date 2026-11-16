@@ -1,0 +1,348 @@
+{
+  "categories": [
+    { "id": "bonus",     "name": "Osh bonus 4+1" },
+    { "id": "setlar",    "name": "Setlar" },
+    { "id": "toy",       "name": "To'y oshi" },
+    { "id": "choyxona",  "name": "Choyxona oshi" },
+    { "id": "ziqir",     "name": "Samarqand ziq'ir oshi" },
+    { "id": "somsa",     "name": "Somsa" },
+    { "id": "salatlar",  "name": "Salatlar" },
+    { "id": "qoshimcha", "name": "Qo'shimcha masalliqlar" },
+    { "id": "kofe",      "name": "Kofe" },
+    { "id": "sharbat",   "name": "Sharbatlar" },
+    { "id": "ichimlik",  "name": "Ichimliklar" }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "nom": "Plov bonus (4+1)",
+      "narx": 55000,
+      "vazn": "400 g",
+      "kategoriya": "bonus",
+      "belgi": "4+1",
+      "emoji": "🍚",
+      "rang": "#C8392B",
+      "tavsif": "Fergona usulida pishirilgan. 4 ta buyurtmaga 1 ta bepul!"
+    },
+    {
+      "id": 2,
+      "nom": "Ziravorli plov bonus",
+      "narx": 60000,
+      "vazn": "400 g",
+      "kategoriya": "bonus",
+      "belgi": "4+1",
+      "emoji": "🍛",
+      "rang": "#B5320F",
+      "tavsif": "Maxsus ziravorlar va qoʻziqorin qoʻshilgan plov. 4+1 taklif!"
+    },
+    {
+      "id": 3,
+      "nom": "Oilaviy set (4 kishi)",
+      "narx": 190000,
+      "vazn": "2.0 kg",
+      "kategoriya": "setlar",
+      "belgi": "-10%",
+      "emoji": "🥘",
+      "rang": "#E05A30",
+      "tavsif": "Plov + salat + non + 4 ta ichimlik. 4 kishi uchun ideal."
+    },
+    {
+      "id": 4,
+      "nom": "Juft set (2 kishi)",
+      "narx": 99000,
+      "vazn": "1.0 kg",
+      "kategoriya": "setlar",
+      "belgi": "-10%",
+      "emoji": "🍱",
+      "rang": "#D44E25",
+      "tavsif": "Plov + salat + non + 2 ta ichimlik. Juft kechlik uchun."
+    },
+    {
+      "id": 5,
+      "nom": "Biznes set",
+      "narx": 75000,
+      "vazn": "600 g",
+      "kategoriya": "setlar",
+      "belgi": null,
+      "emoji": "💼",
+      "rang": "#8B1A0A",
+      "tavsif": "Plov + ichimlik + somsa. Tez tushlik uchun qulay."
+    },
+    {
+      "id": 6,
+      "nom": "To'y plovi (katta)",
+      "narx": 450000,
+      "vazn": "5.0 kg",
+      "kategoriya": "toy",
+      "belgi": null,
+      "emoji": "🎊",
+      "rang": "#7B2D1A",
+      "tavsif": "To'y uchun maxsus plov. 10–12 kishiga yetadi. Idish bilan."
+    },
+    {
+      "id": 7,
+      "nom": "To'y plovi (o'rta)",
+      "narx": 230000,
+      "vazn": "2.5 kg",
+      "kategoriya": "toy",
+      "belgi": null,
+      "emoji": "🎉",
+      "rang": "#9B3520",
+      "tavsif": "5–6 kishilik to'y plovi. An'anaviy kazan usulida."
+    },
+    {
+      "id": 8,
+      "nom": "To'y plovi (kichik)",
+      "narx": 120000,
+      "vazn": "1.2 kg",
+      "kategoriya": "toy",
+      "belgi": "yangi",
+      "emoji": "🏮",
+      "rang": "#C8392B",
+      "tavsif": "Kichik bayramlar uchun. 2–3 kishilik. Yetkazib beriladi."
+    },
+    {
+      "id": 9,
+      "nom": "Choyxona plovi",
+      "narx": 48000,
+      "vazn": "350 g",
+      "kategoriya": "choyxona",
+      "belgi": null,
+      "emoji": "🫖",
+      "rang": "#6B4423",
+      "tavsif": "An'anaviy choyxona muhiti. Qoʻziqorin va sabzavotli."
+    },
+    {
+      "id": 10,
+      "nom": "Choyxona lagʻmon",
+      "narx": 38000,
+      "vazn": "400 g",
+      "kategoriya": "choyxona",
+      "belgi": null,
+      "emoji": "🍜",
+      "rang": "#8B5E3C",
+      "tavsif": "Qoʻlda tortilgan lagʻmon. Choyxona usulida."
+    },
+    {
+      "id": 11,
+      "nom": "Choyxona dimlama",
+      "narx": 42000,
+      "vazn": "450 g",
+      "kategoriya": "choyxona",
+      "belgi": "yangi",
+      "emoji": "🥗",
+      "rang": "#4A6B23",
+      "tavsif": "Go'sht va sabzavotlardan tayyorlangan dimlama."
+    },
+    {
+      "id": 12,
+      "nom": "Samarqand ziq'ir oshi",
+      "narx": 65000,
+      "vazn": "400 g",
+      "kategoriya": "ziqir",
+      "belgi": null,
+      "emoji": "🌾",
+      "rang": "#8B6914",
+      "tavsif": "Samarqand an'anasiga ko'ra ziq'ir bilan pishirilgan noyob plov."
+    },
+    {
+      "id": 13,
+      "nom": "Ziq'ir oshi (oilaviy)",
+      "narx": 240000,
+      "vazn": "2.0 kg",
+      "kategoriya": "ziqir",
+      "belgi": "-10%",
+      "emoji": "✨",
+      "rang": "#A07B1A",
+      "tavsif": "Oila uchun katta porsiya Samarqand ziq'ir oshi."
+    },
+    {
+      "id": 14,
+      "nom": "Somsa (go'shtli)",
+      "narx": 8000,
+      "vazn": "150 g",
+      "kategoriya": "somsa",
+      "belgi": null,
+      "emoji": "🥟",
+      "rang": "#C87820",
+      "tavsif": "Tandirda pishirilgan qoʻy go'shtli somsa. Issiq!"
+    },
+    {
+      "id": 15,
+      "nom": "Somsa (kartoshkali)",
+      "narx": 7000,
+      "vazn": "140 g",
+      "kategoriya": "somsa",
+      "belgi": null,
+      "emoji": "🧅",
+      "rang": "#B86C1A",
+      "tavsif": "Kartoshka va piyozli somsa. Vegetarianlar uchun."
+    },
+    {
+      "id": 16,
+      "nom": "Somsa (kattakon)",
+      "narx": 12000,
+      "vazn": "220 g",
+      "kategoriya": "somsa",
+      "belgi": "yangi",
+      "emoji": "🌟",
+      "rang": "#D08020",
+      "tavsif": "Katta o'lchamli, ikki qavat go'shtli maxsus somsa."
+    },
+    {
+      "id": 17,
+      "nom": "Achiq-chuchuk salat",
+      "narx": 22000,
+      "vazn": "250 g",
+      "kategoriya": "salatlar",
+      "belgi": null,
+      "emoji": "🥒",
+      "rang": "#2D6A2D",
+      "tavsif": "Yangi sabzavotlar, zaytun moyi. Yengil va mazali."
+    },
+    {
+      "id": 18,
+      "nom": "Toshkent salati",
+      "narx": 28000,
+      "vazn": "300 g",
+      "kategoriya": "salatlar",
+      "belgi": null,
+      "emoji": "🥬",
+      "rang": "#3A7A3A",
+      "tavsif": "Go'sht, tuxum va sabzavotli Toshkent uslubidagi salat."
+    },
+    {
+      "id": 19,
+      "nom": "Ko'k salat",
+      "narx": 18000,
+      "vazn": "200 g",
+      "kategoriya": "salatlar",
+      "belgi": "yangi",
+      "emoji": "🌿",
+      "rang": "#4A8A4A",
+      "tavsif": "Yangi ko'katlar va limonli sous bilan yengil salat."
+    },
+    {
+      "id": 20,
+      "nom": "Non (lepyoshka)",
+      "narx": 6000,
+      "vazn": "400 g",
+      "kategoriya": "qoshimcha",
+      "belgi": null,
+      "emoji": "🫓",
+      "rang": "#C87820",
+      "tavsif": "Tandirda pishirilgan an'anaviy o'zbek noni."
+    },
+    {
+      "id": 21,
+      "nom": "Rayhon sharbati",
+      "narx": 5000,
+      "vazn": "200 ml",
+      "kategoriya": "qoshimcha",
+      "belgi": null,
+      "emoji": "🌱",
+      "rang": "#2D6A2D",
+      "tavsif": "Yangi rayhon barglari qoʻshilgan ichimlik."
+    },
+    {
+      "id": 22,
+      "nom": "Espresso",
+      "narx": 15000,
+      "vazn": "30 ml",
+      "kategoriya": "kofe",
+      "belgi": null,
+      "emoji": "☕",
+      "rang": "#3E1F0A",
+      "tavsif": "Italiya usulida tayyorlangan quyuq espresso."
+    },
+    {
+      "id": 23,
+      "nom": "Kapuchino",
+      "narx": 22000,
+      "vazn": "200 ml",
+      "kategoriya": "kofe",
+      "belgi": null,
+      "emoji": "🍵",
+      "rang": "#6B3A1A",
+      "tavsif": "Yumshoq sutli kapuchino. Ko'pikli va issiq."
+    },
+    {
+      "id": 24,
+      "nom": "Latte",
+      "narx": 25000,
+      "vazn": "300 ml",
+      "kategoriya": "kofe",
+      "belgi": "yangi",
+      "emoji": "🥛",
+      "rang": "#8B5A2A",
+      "tavsif": "Qoʻshimcha sutli yumshoq latte. Barist tayyorlagan."
+    },
+    {
+      "id": 25,
+      "nom": "Limonli sharbat",
+      "narx": 18000,
+      "vazn": "400 ml",
+      "kategoriya": "sharbat",
+      "belgi": null,
+      "emoji": "🍋",
+      "rang": "#D4B800",
+      "tavsif": "Yangi limon va nanadan tayyorlangan salqin sharbat."
+    },
+    {
+      "id": 26,
+      "nom": "O'rik sharbati",
+      "narx": 20000,
+      "vazn": "400 ml",
+      "kategoriya": "sharbat",
+      "belgi": null,
+      "emoji": "🍑",
+      "rang": "#E07820",
+      "tavsif": "O'rta Osiyo o'riklari qoʻshilgan tabiiy sharbat."
+    },
+    {
+      "id": 27,
+      "nom": "Gilos sharbati",
+      "narx": 22000,
+      "vazn": "400 ml",
+      "kategoriya": "sharbat",
+      "belgi": "yangi",
+      "emoji": "🍒",
+      "rang": "#8B1A2A",
+      "tavsif": "Yangi gilosdan tayyorlangan mevali sharbat."
+    },
+    {
+      "id": 28,
+      "nom": "Mineral suv",
+      "narx": 8000,
+      "vazn": "500 ml",
+      "kategoriya": "ichimlik",
+      "belgi": null,
+      "emoji": "💧",
+      "rang": "#1A6B8A",
+      "tavsif": "Sovuq mineral suv. Gazli yoki gazsiz."
+    },
+    {
+      "id": 29,
+      "nom": "Choy (qora)",
+      "narx": 10000,
+      "vazn": "400 ml",
+      "kategoriya": "ichimlik",
+      "belgi": null,
+      "emoji": "🍃",
+      "rang": "#3A5A2A",
+      "tavsif": "Hindiston qora choyi. Shakar va limon bilan."
+    },
+    {
+      "id": 30,
+      "nom": "Cola",
+      "narx": 12000,
+      "vazn": "330 ml",
+      "kategoriya": "ichimlik",
+      "belgi": null,
+      "emoji": "🥤",
+      "rang": "#1A0A0A",
+      "tavsif": "Sovuq gazli ichimlik. Muz bilan."
+    }
+  ]
+}
+
