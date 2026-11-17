@@ -132,4 +132,217 @@
       "kategoriya": "choyxona",
       "belgi": "yangi",
       "rang": "#4A6B23",
-      "image": "
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Go'sht va sabzavotlardan tayyorlangan dimlama."
+    },
+    {
+      "id": 12,
+      "nom": "Samarqand ziq'ir oshi",
+      "narx": 65000,
+      "vazn": "400 g",
+      "kategoriya": "ziqir",
+      "belgi": null,
+      "rang": "#8B6914",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Samarqand an'anasiga ko'ra zig'ir yog'i bilan pishirilgan noyob plov."
+    },
+    {
+      "id": 13,
+      "nom": "Ziq'ir oshi (oilaviy)",
+      "narx": 240000,
+      "vazn": "2.0 kg",
+      "kategoriya": "ziqir",
+      "belgi": "-10%",
+      "rang": "#A07B1A",
+      "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Oila uchun katta porsiya Samarqand zig'ir oshi."
+    },
+    {
+      "id": 14,
+      "nom": "Somsa (go'shtli)",
+      "narx": 8000,
+      "vazn": "150 g",
+      "kategoriya": "somsa",
+      "belgi": null,
+      "rang": "#C87820",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Tandirda pishirilgan qoʻy go'shtli somsa. Issiq!"
+    },
+    {
+      "id": 15,
+      "nom": "Somsa (kartoshkali)",
+      "narx": 7000,
+      "vazn": "140 g",
+      "kategoriya": "somsa",
+      "belgi": null,
+      "rang": "#B86C1A",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Kartoshka va piyozli somsa. Vegetarianlar uchun."
+    },
+    {
+      "id": 16,
+      "nom": "Somsa (kattakon)",
+      "narx": 12000,
+      "vazn": "220 g",
+      "kategoriya": "somsa",
+      "belgi": "yangi",
+      "rang": "#D08020",
+      "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Katta o'lchamli, ikki qavat go'shtli maxsus somsa."
+    },
+    {
+      "id": 17,
+      "nom": "Achiq-chuchuk salat",
+      "narx": 22000,
+      "vazn": "250 g",
+      "kategoriya": "salatlar",
+      "belgi": null,
+      "rang": "#2D6A2D",
+      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Yangi pomidor, bodring va piyozdan tayyorlangan an'anaviy salat."
+    },
+    {
+      "id": 18,
+      "nom": "Toshkent salati",
+      "narx": 28000,
+      "vazn": "300 g",
+      "kategoriya": "salatlar",
+      "belgi": null,
+      "rang": "#3A7A3A",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Go'sht, tuxum va sabzavotli Toshkent uslubidagi salat."
+    },
+    {
+      "id": 19,
+      "nom": "Ko'k salat",
+      "narx": 18000,
+      "vazn": "200 g",
+      "kategoriya": "salatlar",
+      "belgi": "yangi",
+      "rang": "#4A8A4A",
+      "image": "https://images.unsplash.com/photo-1607532941433-304659e8198a?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Yangi ko'katlar va limonli sous bilan yengil salat."
+    },
+    {
+      "id": 20,
+      "nom": "Non (lepyoshka)",
+      "narx": 6000,
+      "vazn": "400 g",
+      "kategoriya": "qoshimcha",
+      "belgi": null,
+      "rang": "#C87820",
+      "image": "/images/patir-flatbread.jpg",
+      "tavsif": "Tandirda pishirilgan an'anaviy o'zbek noni."
+    },
+    {
+      "id": 21,
+      "nom": "Rayhon sharbati",
+      "narx": 5000,
+      "vazn": "200 ml",
+      "kategoriya": "qoshimcha",
+      "belgi": null,
+      "rang": "#2D6A2D",
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Yangi rayhon barglari qoʻshilgan salqin ichimlik."
+    },
+    {
+      "id": 22,
+      "nom": "Espresso",
+      "narx": 15000,
+      "vazn": "30 ml",
+      "kategoriya": "kofe",
+      "belgi": null,
+      "rang": "#3E1F0A",
+      "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Italiya usulida tayyorlangan quyuq espresso."
+    },
+    {
+      "id": 23,
+      "nom": "Kapuchino",
+      "narx": 22000,
+      "vazn": "200 ml",
+      "kategoriya": "kofe",
+      "belgi": null,
+      "rang": "#6B3A1A",
+      "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Yumshoq sutli kapuchino. Ko'pikli va issiq."
+    },
+    {
+      "id": 24,
+      "nom": "Latte",
+      "narx": 25000,
+      "vazn": "300 ml",
+      "kategoriya": "kofe",
+      "belgi": "yangi",
+      "rang": "#8B5A2A",
+      "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Qoʻshimcha sutli yumshoq latte. Barista tayyorlagan."
+    },
+    {
+      "id": 25,
+      "nom": "Limonli sharbat",
+      "narx": 18000,
+      "vazn": "400 ml",
+      "kategoriya": "sharbat",
+      "belgi": null,
+      "rang": "#D4B800",
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Yangi limon va yalpizdan tayyorlangan salqin sharbat."
+    },
+    {
+      "id": 26,
+      "nom": "O'rik sharbati",
+      "narx": 20000,
+      "vazn": "400 ml",
+      "kategoriya": "sharbat",
+      "belgi": null,
+      "rang": "#E07820",
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "O'rta Osiyo o'riklaridan tayyorlangan tabiiy sharbat."
+    },
+    {
+      "id": 27,
+      "nom": "Gilos sharbati",
+      "narx": 22000,
+      "vazn": "400 ml",
+      "kategoriya": "sharbat",
+      "belgi": "yangi",
+      "rang": "#8B1A2A",
+      "image": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Yangi gilosdan tayyorlangan mevali sharbat."
+    },
+    {
+      "id": 28,
+      "nom": "Mineral suv",
+      "narx": 8000,
+      "vazn": "500 ml",
+      "kategoriya": "ichimlik",
+      "belgi": null,
+      "rang": "#1A6B8A",
+      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Sovuq mineral suv. Gazli yoki gazsiz."
+    },
+    {
+      "id": 29,
+      "nom": "Choy (qora)",
+      "narx": 10000,
+      "vazn": "400 ml",
+      "kategoriya": "ichimlik",
+      "belgi": null,
+      "rang": "#3A5A2A",
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Hindiston qora choyi. Shakar va limon bilan."
+    },
+    {
+      "id": 30,
+      "nom": "Cola",
+      "narx": 12000,
+      "vazn": "330 ml",
+      "kategoriya": "ichimlik",
+      "belgi": null,
+      "rang": "#1A0A0A",
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=800&q=80",
+      "tavsif": "Sovuq gazli ichimlik. Muz bilan."
+    }
+  ]
+}
